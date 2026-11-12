@@ -5,7 +5,7 @@ import os
 from fpdf import FPDF
 
 st.set_page_config(
-    page_title="Matrice Valutazione Vela - FIV",
+    page_title="Scheda osservazione atleta",
     page_icon="⛵",
     layout="wide"
 )
